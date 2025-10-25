@@ -11,16 +11,16 @@ This repository contains two standalone projects:
 * **File:** `biodata.html`
 * **Description:** A visually appealing "glass" form set against a vibrant purple gradient. This is a single-file demo showcasing how to build and style a modern form using embedded CSS, custom fonts, and transparency effects.
 
-> ****
-> *Suggestion: Take a screenshot of your `biodata.html` and add it here!*
+> ![Modern Biodata Form]
+> 
 
 ### 2. 🧮 Glassmorphism Calculator
 
 * **Files:** `index1.html` & `style.css`
 * **Description:** A beautiful and functional calculator that uses the "glassmorphism" design trend. It features a blurred, transparent background, clean buttons, and all basic arithmetic operations powered by a simple inline script.
 
-> ****
-> *Suggestion: Take a screenshot of your `index1.html` and add it here!*
+> ![Glassmorphism Calculator]
+> 
 
 ---
 
